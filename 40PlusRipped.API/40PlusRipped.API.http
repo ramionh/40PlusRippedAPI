@@ -1,0 +1,6 @@
+@_40PlusRipped.API_HostAddress = http://localhost:5082
+
+GET {{_40PlusRipped.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
